@@ -89,7 +89,8 @@ Each script trains and evaluates the model, and saves:
 
 ## 📄 License
 
-This project is licensed under the **MIT License** – see the `LICENSE` file for details.
+This project **does not have an open-source license**.  
+Use of the code, data or models is **not permitted** without the author’s explicit permission.
 
 ## 👤 Author
 
